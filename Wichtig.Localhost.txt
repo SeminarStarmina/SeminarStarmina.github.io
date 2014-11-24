@@ -1,5 +1,0 @@
-Hallo Leute
-um die Webapplikation über euren Localhost aufrufen zu können benötigen wir Zend Sekeleton Applikation, das hab ich euch unter dem Namen Starmina hochgeladen.
-Bitte seht euch dieses Video-Tutorial an, in dem wird erlärt wie ihr zend auf eurem Localhost installieren könnt. 
-http://www.youtube.com/watch?v=L29onMRiP3U
-
